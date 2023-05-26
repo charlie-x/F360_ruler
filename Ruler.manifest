@@ -1,0 +1,15 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"charliex",
+	"description":	{
+		"":	"Create a Ruler\t\t"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"id":	"f179924e-e407-42ea-82c3-528ba56ad50a",
+	"version":	"0.01",
+	"runOnStartup":	false,
+	"sourcewindows":	"Ruler.vcxproj",
+	"sourcemac":	"Ruler.xcodeproj"
+}
